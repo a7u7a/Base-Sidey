@@ -1,25 +1,15 @@
 # Sidey
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+- Fork of https://github.com/ronv/sidey
+- To be used as simple github pages template
 
-### Features
-
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
-
-### Screenshot
-
-![Screenshot](screenshot.png)
+### Simple setup
+- Create new repo
+- Clone https://github.com/a7u7a/base-sidey
+- Copy files from base-sidey to new repo
+- Delete git - related files from base-sidey directory
+- Rename ‘base-sidey’ dir to ‘docs’
+- Add baseurl ‘/new-repo’ to _config.yaml
+- Push new repo changes
+- Point github pages publishing source to new-repo/docs
+- Site should be ready
