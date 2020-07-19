@@ -14,7 +14,7 @@ author:
   url: https://a7u7a.github.io/
 permalink: pretty
 
-baseurl: "sidey-test/"
+baseurl: ""
 
 highlighter: rouge
 
