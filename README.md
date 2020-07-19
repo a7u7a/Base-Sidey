@@ -1,6 +1,6 @@
-# Sidey
-
-- Fork of https://github.com/ronv/sidey
+# Base-Sidey
+- This is a fork from https://github.com/ronv/sidey
+- To be used with github pages as quick setup template
 - To be used as simple github pages template
 
 ### Simple dirty setup
