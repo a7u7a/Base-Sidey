@@ -11,10 +11,10 @@ author:
   name: #yourusername
   avatar:
   email: #youremail
-  url: https://a7u7a.github.io/sidey-test/
+  url: #https://a7u7a.github.io/
 permalink: pretty
 
-baseurl: ""
+baseurl: "/sidey-test"
 
 highlighter: rouge
 
