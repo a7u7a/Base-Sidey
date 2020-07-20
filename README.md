@@ -16,3 +16,6 @@
 ### Local serve
 - Setup: Run `bundle update --bundler`
 - Serve: Run `bundle exec jekyll serve`
+
+### Changes
+- Added table styling for pandas dataframes
