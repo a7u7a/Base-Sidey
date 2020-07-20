@@ -14,4 +14,5 @@
 - Site should be ready at https://user.github.io/new-repo/
 
 ### Local serve
-- Run 
+- Setup: Run `bundle update --bundler`
+- Serve: Run `bundle exec jekyll serve`
